@@ -1,0 +1,11 @@
+{
+  "name": "hubot-simple-dice",
+  "version": "1.0.0",
+  "description": "Simple dice rolling bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guy Bianco IV <gjbiancoiv@gmail.com>",
+  "license": "MIT"
+}
